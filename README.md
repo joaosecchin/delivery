@@ -1,4 +1,4 @@
-# {
+{
   "Comment": "Step Function de demonstração, tratamento de um jantar romantico.\nDados iniciais para execução\n{\n\t\"prompt_one\": \"Sugetão de comidas.\",\n\t\"prompt_two\": \"Sugetão de cobebidas.\",\n  \t\"prompt_three\": \"Sugetão de local.\"\n}",
   "StartAt": "Prompt para sugestão de comidas",
   "States": {
